@@ -14,7 +14,6 @@
 #define  ac 0
 #define  ac1 1
 
-//为了处理数组下标变量
 #define arc 2
 #define arc1 3
 
